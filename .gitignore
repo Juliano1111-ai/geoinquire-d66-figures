@@ -1,0 +1,7 @@
+# Raw inputs are not redistributed: the ILM holds personal data (PI gender,
+# affiliations, contact e-mails) and the TA reports name individuals.
+data/raw/
+out/
+__pycache__/
+*.pyc
+.DS_Store

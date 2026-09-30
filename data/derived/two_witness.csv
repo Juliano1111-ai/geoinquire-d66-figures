@@ -1,0 +1,477 @@
+Project ID,Item,ILM,Report,Report has no field
+C1_TA1-44-1_1,Access took place,True,True,False
+C1_TA1-44-1_1,Access completed,True,True,False
+C1_TA1-44-1_1,Output identifier (DOI or URL),False,False,False
+C1_TA1-44-1_1,Reuse terms stated,True,False,False
+C1_TA1-44-1_1,RI destination named,True,True,False
+C1_TA1-44-1_1,Repository deposit,False,False,False
+C1_TA1-44-1_1,Units used recorded,True,False,True
+C1_TA3-84-1_1,Access took place,True,True,False
+C1_TA3-84-1_1,Access completed,True,True,False
+C1_TA3-84-1_1,Output identifier (DOI or URL),True,True,False
+C1_TA3-84-1_1,Reuse terms stated,True,True,False
+C1_TA3-84-1_1,RI destination named,True,True,False
+C1_TA3-84-1_1,Repository deposit,True,True,False
+C1_TA3-84-1_1,Units used recorded,True,False,True
+C1_TA3-84-1_2,Access took place,True,True,False
+C1_TA3-84-1_2,Access completed,True,True,False
+C1_TA3-84-1_2,Output identifier (DOI or URL),True,True,False
+C1_TA3-84-1_2,Reuse terms stated,True,True,False
+C1_TA3-84-1_2,RI destination named,True,False,False
+C1_TA3-84-1_2,Repository deposit,True,True,False
+C1_TA3-84-1_2,Units used recorded,False,False,True
+C1_TA3-84-1_3,Access took place,True,True,False
+C1_TA3-84-1_3,Access completed,True,True,False
+C1_TA3-84-1_3,Output identifier (DOI or URL),True,True,False
+C1_TA3-84-1_3,Reuse terms stated,True,True,False
+C1_TA3-84-1_3,RI destination named,True,True,False
+C1_TA3-84-1_3,Repository deposit,True,True,False
+C1_TA3-84-1_3,Units used recorded,False,False,True
+C2_TA3-84-1_2,Access took place,True,True,False
+C2_TA3-84-1_2,Access completed,True,True,False
+C2_TA3-84-1_2,Output identifier (DOI or URL),True,True,False
+C2_TA3-84-1_2,Reuse terms stated,True,True,False
+C2_TA3-84-1_2,RI destination named,True,True,False
+C2_TA3-84-1_2,Repository deposit,True,True,False
+C2_TA3-84-1_2,Units used recorded,False,False,True
+C3_TA3-84-1_2,Access took place,True,True,False
+C3_TA3-84-1_2,Access completed,True,True,False
+C3_TA3-84-1_2,Output identifier (DOI or URL),False,False,False
+C3_TA3-84-1_2,Reuse terms stated,True,False,False
+C3_TA3-84-1_2,RI destination named,True,False,False
+C3_TA3-84-1_2,Repository deposit,False,False,False
+C3_TA3-84-1_2,Units used recorded,False,False,True
+C3_TA3-84-1_3,Access took place,True,True,False
+C3_TA3-84-1_3,Access completed,True,True,False
+C3_TA3-84-1_3,Output identifier (DOI or URL),True,True,False
+C3_TA3-84-1_3,Reuse terms stated,True,False,False
+C3_TA3-84-1_3,RI destination named,True,True,False
+C3_TA3-84-1_3,Repository deposit,True,True,False
+C3_TA3-84-1_3,Units used recorded,False,False,True
+C1_TA2-531-3_1,Access took place,True,True,False
+C1_TA2-531-3_1,Access completed,True,True,False
+C1_TA2-531-3_1,Output identifier (DOI or URL),True,False,False
+C1_TA2-531-3_1,Reuse terms stated,True,False,False
+C1_TA2-531-3_1,RI destination named,True,False,False
+C1_TA2-531-3_1,Repository deposit,False,False,False
+C1_TA2-531-3_1,Units used recorded,False,False,True
+C1_TA2-531-3_6,Access took place,True,True,False
+C1_TA2-531-3_6,Access completed,True,True,False
+C1_TA2-531-3_6,Output identifier (DOI or URL),True,False,False
+C1_TA2-531-3_6,Reuse terms stated,True,False,False
+C1_TA2-531-3_6,RI destination named,True,False,False
+C1_TA2-531-3_6,Repository deposit,False,False,False
+C1_TA2-531-3_6,Units used recorded,False,False,True
+C1_TA2-531-3_7,Access took place,True,True,False
+C1_TA2-531-3_7,Access completed,True,True,False
+C1_TA2-531-3_7,Output identifier (DOI or URL),False,True,False
+C1_TA2-531-3_7,Reuse terms stated,True,False,False
+C1_TA2-531-3_7,RI destination named,True,True,False
+C1_TA2-531-3_7,Repository deposit,False,False,False
+C1_TA2-531-3_7,Units used recorded,False,False,True
+C1_TA2-541-1_1,Access took place,True,True,False
+C1_TA2-541-1_1,Access completed,True,True,False
+C1_TA2-541-1_1,Output identifier (DOI or URL),False,False,False
+C1_TA2-541-1_1,Reuse terms stated,True,True,False
+C1_TA2-541-1_1,RI destination named,True,True,False
+C1_TA2-541-1_1,Repository deposit,False,False,False
+C1_TA2-541-1_1,Units used recorded,False,False,True
+C1_TA2-541-1_2,Access took place,True,True,False
+C1_TA2-541-1_2,Access completed,True,True,False
+C1_TA2-541-1_2,Output identifier (DOI or URL),True,True,False
+C1_TA2-541-1_2,Reuse terms stated,True,True,False
+C1_TA2-541-1_2,RI destination named,True,True,False
+C1_TA2-541-1_2,Repository deposit,False,False,False
+C1_TA2-541-1_2,Units used recorded,False,False,True
+C2_TA2-532-1_1,Access took place,True,True,False
+C2_TA2-532-1_1,Access completed,True,True,False
+C2_TA2-532-1_1,Output identifier (DOI or URL),True,True,False
+C2_TA2-532-1_1,Reuse terms stated,False,False,False
+C2_TA2-532-1_1,RI destination named,True,True,False
+C2_TA2-532-1_1,Repository deposit,False,False,False
+C2_TA2-532-1_1,Units used recorded,True,False,True
+C2_TA2-532-1_6,Access took place,True,True,False
+C2_TA2-532-1_6,Access completed,True,True,False
+C2_TA2-532-1_6,Output identifier (DOI or URL),True,True,False
+C2_TA2-532-1_6,Reuse terms stated,False,False,False
+C2_TA2-532-1_6,RI destination named,True,True,False
+C2_TA2-532-1_6,Repository deposit,False,False,False
+C2_TA2-532-1_6,Units used recorded,True,False,True
+C2_TA2-532-1_3,Access took place,True,True,False
+C2_TA2-532-1_3,Access completed,True,False,False
+C2_TA2-532-1_3,Output identifier (DOI or URL),True,True,False
+C2_TA2-532-1_3,Reuse terms stated,True,False,False
+C2_TA2-532-1_3,RI destination named,True,True,False
+C2_TA2-532-1_3,Repository deposit,False,False,False
+C2_TA2-532-1_3,Units used recorded,True,False,True
+C2_TA2-532-1_2,Access took place,True,True,False
+C2_TA2-532-1_2,Access completed,True,True,False
+C2_TA2-532-1_2,Output identifier (DOI or URL),True,True,False
+C2_TA2-532-1_2,Reuse terms stated,False,False,False
+C2_TA2-532-1_2,RI destination named,True,True,False
+C2_TA2-532-1_2,Repository deposit,False,False,False
+C2_TA2-532-1_2,Units used recorded,True,False,True
+C1_TA2-541-6_1,Access took place,True,True,False
+C1_TA2-541-6_1,Access completed,True,True,False
+C1_TA2-541-6_1,Output identifier (DOI or URL),False,False,False
+C1_TA2-541-6_1,Reuse terms stated,False,False,False
+C1_TA2-541-6_1,RI destination named,True,True,False
+C1_TA2-541-6_1,Repository deposit,False,False,False
+C1_TA2-541-6_1,Units used recorded,True,False,True
+C2_TA2-541-6_2,Access took place,True,True,False
+C2_TA2-541-6_2,Access completed,True,True,False
+C2_TA2-541-6_2,Output identifier (DOI or URL),False,True,False
+C2_TA2-541-6_2,Reuse terms stated,False,False,False
+C2_TA2-541-6_2,RI destination named,True,True,False
+C2_TA2-541-6_2,Repository deposit,False,False,False
+C2_TA2-541-6_2,Units used recorded,True,False,True
+C1_TA2-531-1_1,Access took place,True,True,False
+C1_TA2-531-1_1,Access completed,True,True,False
+C1_TA2-531-1_1,Output identifier (DOI or URL),True,False,False
+C1_TA2-531-1_1,Reuse terms stated,True,False,False
+C1_TA2-531-1_1,RI destination named,True,False,False
+C1_TA2-531-1_1,Repository deposit,False,False,False
+C1_TA2-531-1_1,Units used recorded,True,False,True
+C1_TA2-531-1_2,Access took place,True,False,False
+C1_TA2-531-1_2,Access completed,True,False,False
+C1_TA2-531-1_2,Output identifier (DOI or URL),True,False,False
+C1_TA2-531-1_2,Reuse terms stated,True,False,False
+C1_TA2-531-1_2,RI destination named,True,False,False
+C1_TA2-531-1_2,Repository deposit,True,False,False
+C1_TA2-531-1_2,Units used recorded,True,False,True
+C2_TA2-531-1_2,Access took place,True,True,False
+C2_TA2-531-1_2,Access completed,True,True,False
+C2_TA2-531-1_2,Output identifier (DOI or URL),True,False,False
+C2_TA2-531-1_2,Reuse terms stated,True,False,False
+C2_TA2-531-1_2,RI destination named,True,True,False
+C2_TA2-531-1_2,Repository deposit,False,False,False
+C2_TA2-531-1_2,Units used recorded,True,False,True
+C2_TA2-541-9_2,Access took place,True,True,False
+C2_TA2-541-9_2,Access completed,True,True,False
+C2_TA2-541-9_2,Output identifier (DOI or URL),True,False,False
+C2_TA2-541-9_2,Reuse terms stated,True,False,False
+C2_TA2-541-9_2,RI destination named,True,False,False
+C2_TA2-541-9_2,Repository deposit,False,False,False
+C2_TA2-541-9_2,Units used recorded,True,False,True
+C2_TA2-541-9_1,Access took place,True,True,False
+C2_TA2-541-9_1,Access completed,True,False,False
+C2_TA2-541-9_1,Output identifier (DOI or URL),True,False,False
+C2_TA2-541-9_1,Reuse terms stated,True,True,False
+C2_TA2-541-9_1,RI destination named,True,True,False
+C2_TA2-541-9_1,Repository deposit,False,False,False
+C2_TA2-541-9_1,Units used recorded,True,False,True
+C3_TA2-541-11_1,Access took place,True,True,False
+C3_TA2-541-11_1,Access completed,True,True,False
+C3_TA2-541-11_1,Output identifier (DOI or URL),True,False,False
+C3_TA2-541-11_1,Reuse terms stated,True,False,False
+C3_TA2-541-11_1,RI destination named,True,True,False
+C3_TA2-541-11_1,Repository deposit,False,False,False
+C3_TA2-541-11_1,Units used recorded,True,False,True
+C3_TA2-541-11_2,Access took place,True,True,False
+C3_TA2-541-11_2,Access completed,True,True,False
+C3_TA2-541-11_2,Output identifier (DOI or URL),True,False,False
+C3_TA2-541-11_2,Reuse terms stated,True,False,False
+C3_TA2-541-11_2,RI destination named,True,False,False
+C3_TA2-541-11_2,Repository deposit,False,False,False
+C3_TA2-541-11_2,Units used recorded,True,False,True
+C1_TA3-83-1_1,Access took place,True,True,False
+C1_TA3-83-1_1,Access completed,True,True,False
+C1_TA3-83-1_1,Output identifier (DOI or URL),False,True,False
+C1_TA3-83-1_1,Reuse terms stated,True,False,False
+C1_TA3-83-1_1,RI destination named,True,False,False
+C1_TA3-83-1_1,Repository deposit,True,True,False
+C1_TA3-83-1_1,Units used recorded,True,False,True
+C1_TA2-541-10_4,Access took place,True,False,False
+C1_TA2-541-10_4,Access completed,True,False,False
+C1_TA2-541-10_4,Output identifier (DOI or URL),False,False,False
+C1_TA2-541-10_4,Reuse terms stated,True,False,False
+C1_TA2-541-10_4,RI destination named,True,False,False
+C1_TA2-541-10_4,Repository deposit,False,False,False
+C1_TA2-541-10_4,Units used recorded,True,False,True
+C1_TA2-531-2_2,Access took place,True,True,False
+C1_TA2-531-2_2,Access completed,True,True,False
+C1_TA2-531-2_2,Output identifier (DOI or URL),False,False,False
+C1_TA2-531-2_2,Reuse terms stated,True,False,False
+C1_TA2-531-2_2,RI destination named,True,False,False
+C1_TA2-531-2_2,Repository deposit,False,False,False
+C1_TA2-531-2_2,Units used recorded,True,False,True
+C1_TA2-531-2_1,Access took place,True,True,False
+C1_TA2-531-2_1,Access completed,True,True,False
+C1_TA2-531-2_1,Output identifier (DOI or URL),False,False,False
+C1_TA2-531-2_1,Reuse terms stated,True,False,False
+C1_TA2-531-2_1,RI destination named,True,False,False
+C1_TA2-531-2_1,Repository deposit,False,False,False
+C1_TA2-531-2_1,Units used recorded,True,False,True
+C3_TA2-531-2_1,Access took place,True,True,False
+C3_TA2-531-2_1,Access completed,True,True,False
+C3_TA2-531-2_1,Output identifier (DOI or URL),True,True,False
+C3_TA2-531-2_1,Reuse terms stated,True,True,False
+C3_TA2-531-2_1,RI destination named,True,True,False
+C3_TA2-531-2_1,Repository deposit,False,False,False
+C3_TA2-531-2_1,Units used recorded,True,False,True
+C2_TA2-531-2_2,Access took place,True,True,False
+C2_TA2-531-2_2,Access completed,True,True,False
+C2_TA2-531-2_2,Output identifier (DOI or URL),True,False,False
+C2_TA2-531-2_2,Reuse terms stated,True,False,False
+C2_TA2-531-2_2,RI destination named,True,True,False
+C2_TA2-531-2_2,Repository deposit,False,False,False
+C2_TA2-531-2_2,Units used recorded,True,False,True
+C1_TA2-541-3_1,Access took place,True,True,False
+C1_TA2-541-3_1,Access completed,True,True,False
+C1_TA2-541-3_1,Output identifier (DOI or URL),True,False,False
+C1_TA2-541-3_1,Reuse terms stated,True,False,False
+C1_TA2-541-3_1,RI destination named,True,True,False
+C1_TA2-541-3_1,Repository deposit,False,False,False
+C1_TA2-541-3_1,Units used recorded,True,False,True
+C1_TA2-541-3_3,Access took place,True,True,False
+C1_TA2-541-3_3,Access completed,True,True,False
+C1_TA2-541-3_3,Output identifier (DOI or URL),True,True,False
+C1_TA2-541-3_3,Reuse terms stated,True,False,False
+C1_TA2-541-3_3,RI destination named,True,True,False
+C1_TA2-541-3_3,Repository deposit,False,False,False
+C1_TA2-541-3_3,Units used recorded,True,False,True
+C1_TA2-542-1_1,Access took place,True,True,False
+C1_TA2-542-1_1,Access completed,True,True,False
+C1_TA2-542-1_1,Output identifier (DOI or URL),False,False,False
+C1_TA2-542-1_1,Reuse terms stated,True,True,False
+C1_TA2-542-1_1,RI destination named,False,False,False
+C1_TA2-542-1_1,Repository deposit,False,False,False
+C1_TA2-542-1_1,Units used recorded,True,False,True
+C1_TA2-542-1_2,Access took place,True,True,False
+C1_TA2-542-1_2,Access completed,True,True,False
+C1_TA2-542-1_2,Output identifier (DOI or URL),False,False,False
+C1_TA2-542-1_2,Reuse terms stated,True,False,False
+C1_TA2-542-1_2,RI destination named,False,True,False
+C1_TA2-542-1_2,Repository deposit,False,False,False
+C1_TA2-542-1_2,Units used recorded,True,False,True
+C1_TA2-542-1_3,Access took place,True,True,False
+C1_TA2-542-1_3,Access completed,True,True,False
+C1_TA2-542-1_3,Output identifier (DOI or URL),False,False,False
+C1_TA2-542-1_3,Reuse terms stated,True,False,False
+C1_TA2-542-1_3,RI destination named,False,True,False
+C1_TA2-542-1_3,Repository deposit,False,False,False
+C1_TA2-542-1_3,Units used recorded,True,False,True
+C3_TA3-82-1_4,Access took place,True,True,False
+C3_TA3-82-1_4,Access completed,True,True,False
+C3_TA3-82-1_4,Output identifier (DOI or URL),True,False,False
+C3_TA3-82-1_4,Reuse terms stated,True,False,False
+C3_TA3-82-1_4,RI destination named,True,False,False
+C3_TA3-82-1_4,Repository deposit,False,False,False
+C3_TA3-82-1_4,Units used recorded,True,False,True
+C3_TA3-82-1_5,Access took place,True,True,False
+C3_TA3-82-1_5,Access completed,True,True,False
+C3_TA3-82-1_5,Output identifier (DOI or URL),True,False,False
+C3_TA3-82-1_5,Reuse terms stated,True,True,False
+C3_TA3-82-1_5,RI destination named,True,True,False
+C3_TA3-82-1_5,Repository deposit,False,False,False
+C3_TA3-82-1_5,Units used recorded,True,False,True
+C3_TA3-83-1_2,Access took place,True,True,False
+C3_TA3-83-1_2,Access completed,True,True,False
+C3_TA3-83-1_2,Output identifier (DOI or URL),False,False,False
+C3_TA3-83-1_2,Reuse terms stated,True,False,False
+C3_TA3-83-1_2,RI destination named,False,False,False
+C3_TA3-83-1_2,Repository deposit,False,False,False
+C3_TA3-83-1_2,Units used recorded,True,False,True
+C3_TA3-83-4_2,Access took place,True,True,False
+C3_TA3-83-4_2,Access completed,False,False,False
+C3_TA3-83-4_2,Output identifier (DOI or URL),False,False,False
+C3_TA3-83-4_2,Reuse terms stated,False,False,False
+C3_TA3-83-4_2,RI destination named,True,False,False
+C3_TA3-83-4_2,Repository deposit,True,False,False
+C3_TA3-83-4_2,Units used recorded,False,False,True
+C3_TA3-83-4_3,Access took place,True,True,False
+C3_TA3-83-4_3,Access completed,True,True,False
+C3_TA3-83-4_3,Output identifier (DOI or URL),False,True,False
+C3_TA3-83-4_3,Reuse terms stated,False,False,False
+C3_TA3-83-4_3,RI destination named,True,False,False
+C3_TA3-83-4_3,Repository deposit,False,True,False
+C3_TA3-83-4_3,Units used recorded,True,False,True
+C3_TA3-83-5_2,Access took place,True,True,False
+C3_TA3-83-5_2,Access completed,False,True,False
+C3_TA3-83-5_2,Output identifier (DOI or URL),False,False,False
+C3_TA3-83-5_2,Reuse terms stated,True,False,False
+C3_TA3-83-5_2,RI destination named,True,True,False
+C3_TA3-83-5_2,Repository deposit,False,False,False
+C3_TA3-83-5_2,Units used recorded,False,False,True
+C3_TA3-83-6_2,Access took place,True,True,False
+C3_TA3-83-6_2,Access completed,True,True,False
+C3_TA3-83-6_2,Output identifier (DOI or URL),False,False,False
+C3_TA3-83-6_2,Reuse terms stated,False,False,False
+C3_TA3-83-6_2,RI destination named,False,False,False
+C3_TA3-83-6_2,Repository deposit,False,False,False
+C3_TA3-83-6_2,Units used recorded,True,False,True
+C3_TA2-531-3_3,Access took place,True,True,False
+C3_TA2-531-3_3,Access completed,False,True,False
+C3_TA2-531-3_3,Output identifier (DOI or URL),True,False,False
+C3_TA2-531-3_3,Reuse terms stated,True,False,False
+C3_TA2-531-3_3,RI destination named,True,False,False
+C3_TA2-531-3_3,Repository deposit,False,False,False
+C3_TA2-531-3_3,Units used recorded,False,False,True
+C3_TA2-531-3_6,Access took place,False,True,False
+C3_TA2-531-3_6,Access completed,False,True,False
+C3_TA2-531-3_6,Output identifier (DOI or URL),False,True,False
+C3_TA2-531-3_6,Reuse terms stated,True,True,False
+C3_TA2-531-3_6,RI destination named,True,False,False
+C3_TA2-531-3_6,Repository deposit,False,True,False
+C3_TA2-531-3_6,Units used recorded,False,False,True
+C3_TA2-531-3_8,Access took place,True,True,False
+C3_TA2-531-3_8,Access completed,True,True,False
+C3_TA2-531-3_8,Output identifier (DOI or URL),True,False,False
+C3_TA2-531-3_8,Reuse terms stated,True,False,False
+C3_TA2-531-3_8,RI destination named,True,False,False
+C3_TA2-531-3_8,Repository deposit,False,False,False
+C3_TA2-531-3_8,Units used recorded,False,False,True
+C3_TA-88-1_2,Access took place,True,True,False
+C3_TA-88-1_2,Access completed,True,True,False
+C3_TA-88-1_2,Output identifier (DOI or URL),False,True,False
+C3_TA-88-1_2,Reuse terms stated,True,False,False
+C3_TA-88-1_2,RI destination named,False,False,False
+C3_TA-88-1_2,Repository deposit,True,True,False
+C3_TA-88-1_2,Units used recorded,False,False,True
+C3_TA1-44-2_2,Access took place,True,True,False
+C3_TA1-44-2_2,Access completed,True,True,False
+C3_TA1-44-2_2,Output identifier (DOI or URL),True,False,False
+C3_TA1-44-2_2,Reuse terms stated,True,False,False
+C3_TA1-44-2_2,RI destination named,True,True,False
+C3_TA1-44-2_2,Repository deposit,False,False,False
+C3_TA1-44-2_2,Units used recorded,True,False,True
+C3_TA1-44-1_3,Access took place,True,True,False
+C3_TA1-44-1_3,Access completed,False,True,False
+C3_TA1-44-1_3,Output identifier (DOI or URL),False,False,False
+C3_TA1-44-1_3,Reuse terms stated,False,False,False
+C3_TA1-44-1_3,RI destination named,True,False,False
+C3_TA1-44-1_3,Repository deposit,False,False,False
+C3_TA1-44-1_3,Units used recorded,False,False,True
+C3_TA1-44-1_4,Access took place,True,True,False
+C3_TA1-44-1_4,Access completed,False,True,False
+C3_TA1-44-1_4,Output identifier (DOI or URL),False,True,False
+C3_TA1-44-1_4,Reuse terms stated,False,True,False
+C3_TA1-44-1_4,RI destination named,True,False,False
+C3_TA1-44-1_4,Repository deposit,False,True,False
+C3_TA1-44-1_4,Units used recorded,False,False,True
+C3_TA1-44-5_2,Access took place,False,True,False
+C3_TA1-44-5_2,Access completed,False,True,False
+C3_TA1-44-5_2,Output identifier (DOI or URL),False,True,False
+C3_TA1-44-5_2,Reuse terms stated,False,True,False
+C3_TA1-44-5_2,RI destination named,True,True,False
+C3_TA1-44-5_2,Repository deposit,False,True,False
+C3_TA1-44-5_2,Units used recorded,False,False,True
+C2_TA2-532-1_5,Access took place,True,True,False
+C2_TA2-532-1_5,Access completed,True,True,False
+C2_TA2-532-1_5,Output identifier (DOI or URL),False,True,False
+C2_TA2-532-1_5,Reuse terms stated,False,False,False
+C2_TA2-532-1_5,RI destination named,False,True,False
+C2_TA2-532-1_5,Repository deposit,False,False,False
+C2_TA2-532-1_5,Units used recorded,True,False,True
+C2_TA2-541-6_1,Access took place,True,True,False
+C2_TA2-541-6_1,Access completed,True,True,False
+C2_TA2-541-6_1,Output identifier (DOI or URL),False,False,False
+C2_TA2-541-6_1,Reuse terms stated,False,False,False
+C2_TA2-541-6_1,RI destination named,False,False,False
+C2_TA2-541-6_1,Repository deposit,False,False,False
+C2_TA2-541-6_1,Units used recorded,True,False,True
+C2_TA3-88-2_1,Access took place,True,True,False
+C2_TA3-88-2_1,Access completed,True,True,False
+C2_TA3-88-2_1,Output identifier (DOI or URL),True,True,False
+C2_TA3-88-2_1,Reuse terms stated,True,False,False
+C2_TA3-88-2_1,RI destination named,False,False,False
+C2_TA3-88-2_1,Repository deposit,True,True,False
+C2_TA3-88-2_1,Units used recorded,True,False,True
+C4_TA3-88-2_3,Access took place,True,True,False
+C4_TA3-88-2_3,Access completed,False,True,False
+C4_TA3-88-2_3,Output identifier (DOI or URL),False,True,False
+C4_TA3-88-2_3,Reuse terms stated,True,True,False
+C4_TA3-88-2_3,RI destination named,False,False,False
+C4_TA3-88-2_3,Repository deposit,True,True,False
+C4_TA3-88-2_3,Units used recorded,False,False,True
+C4_TA3-88-2_2,Access took place,True,True,False
+C4_TA3-88-2_2,Access completed,False,True,False
+C4_TA3-88-2_2,Output identifier (DOI or URL),True,False,False
+C4_TA3-88-2_2,Reuse terms stated,False,True,False
+C4_TA3-88-2_2,RI destination named,False,True,False
+C4_TA3-88-2_2,Repository deposit,True,False,False
+C4_TA3-88-2_2,Units used recorded,False,False,True
+C4_TA3_82_1_1,Access took place,True,True,False
+C4_TA3_82_1_1,Access completed,True,True,False
+C4_TA3_82_1_1,Output identifier (DOI or URL),True,False,False
+C4_TA3_82_1_1,Reuse terms stated,True,False,False
+C4_TA3_82_1_1,RI destination named,True,False,False
+C4_TA3_82_1_1,Repository deposit,False,False,False
+C4_TA3_82_1_1,Units used recorded,True,False,True
+C3_TA3_85_1_2,Access took place,True,True,False
+C3_TA3_85_1_2,Access completed,True,True,False
+C3_TA3_85_1_2,Output identifier (DOI or URL),False,True,False
+C3_TA3_85_1_2,Reuse terms stated,False,True,False
+C3_TA3_85_1_2,RI destination named,False,False,False
+C3_TA3_85_1_2,Repository deposit,False,True,False
+C3_TA3_85_1_2,Units used recorded,True,False,True
+C4_TA3-83-4_1,Access took place,False,True,False
+C4_TA3-83-4_1,Access completed,False,True,False
+C4_TA3-83-4_1,Output identifier (DOI or URL),False,False,False
+C4_TA3-83-4_1,Reuse terms stated,False,True,False
+C4_TA3-83-4_1,RI destination named,False,False,False
+C4_TA3-83-4_1,Repository deposit,False,False,False
+C4_TA3-83-4_1,Units used recorded,False,False,True
+C4_TA3-83-5_1,Access took place,True,True,False
+C4_TA3-83-5_1,Access completed,False,True,False
+C4_TA3-83-5_1,Output identifier (DOI or URL),False,False,False
+C4_TA3-83-5_1,Reuse terms stated,True,False,False
+C4_TA3-83-5_1,RI destination named,True,True,False
+C4_TA3-83-5_1,Repository deposit,False,False,False
+C4_TA3-83-5_1,Units used recorded,False,False,True
+C4_TA3-83-6_1,Access took place,True,True,False
+C4_TA3-83-6_1,Access completed,False,True,False
+C4_TA3-83-6_1,Output identifier (DOI or URL),True,False,False
+C4_TA3-83-6_1,Reuse terms stated,False,True,False
+C4_TA3-83-6_1,RI destination named,False,False,False
+C4_TA3-83-6_1,Repository deposit,False,False,False
+C4_TA3-83-6_1,Units used recorded,False,False,True
+C4_TA3-86-1,Access took place,True,True,False
+C4_TA3-86-1,Access completed,True,False,False
+C4_TA3-86-1,Output identifier (DOI or URL),True,False,False
+C4_TA3-86-1,Reuse terms stated,True,False,False
+C4_TA3-86-1,RI destination named,True,True,False
+C4_TA3-86-1,Repository deposit,False,False,False
+C4_TA3-86-1,Units used recorded,True,False,True
+C4_TA3-86-2,Access took place,True,True,False
+C4_TA3-86-2,Access completed,True,True,False
+C4_TA3-86-2,Output identifier (DOI or URL),True,False,False
+C4_TA3-86-2,Reuse terms stated,True,False,False
+C4_TA3-86-2,RI destination named,True,False,False
+C4_TA3-86-2,Repository deposit,False,False,False
+C4_TA3-86-2,Units used recorded,True,False,True
+C4_TA3-86-3,Access took place,True,True,False
+C4_TA3-86-3,Access completed,True,False,False
+C4_TA3-86-3,Output identifier (DOI or URL),True,False,False
+C4_TA3-86-3,Reuse terms stated,True,True,False
+C4_TA3-86-3,RI destination named,True,False,False
+C4_TA3-86-3,Repository deposit,False,False,False
+C4_TA3-86-3,Units used recorded,True,False,True
+C3_TA2-542-1_2,Access took place,True,True,False
+C3_TA2-542-1_2,Access completed,True,True,False
+C3_TA2-542-1_2,Output identifier (DOI or URL),False,False,False
+C3_TA2-542-1_2,Reuse terms stated,True,True,False
+C3_TA2-542-1_2,RI destination named,True,False,False
+C3_TA2-542-1_2,Repository deposit,False,False,False
+C3_TA2-542-1_2,Units used recorded,True,False,True
+C3_TA2-542-1_4,Access took place,True,True,False
+C3_TA2-542-1_4,Access completed,True,True,False
+C3_TA2-542-1_4,Output identifier (DOI or URL),False,False,False
+C3_TA2-542-1_4,Reuse terms stated,True,True,False
+C3_TA2-542-1_4,RI destination named,True,False,False
+C3_TA2-542-1_4,Repository deposit,False,False,False
+C3_TA2-542-1_4,Units used recorded,True,False,True
+C3_TA2-542-1_6,Access took place,True,True,False
+C3_TA2-542-1_6,Access completed,True,True,False
+C3_TA2-542-1_6,Output identifier (DOI or URL),False,False,False
+C3_TA2-542-1_6,Reuse terms stated,True,True,False
+C3_TA2-542-1_6,RI destination named,True,True,False
+C3_TA2-542-1_6,Repository deposit,False,False,False
+C3_TA2-542-1_6,Units used recorded,True,False,True
+C4_TA2-542-1_2,Access took place,True,True,False
+C4_TA2-542-1_2,Access completed,True,True,False
+C4_TA2-542-1_2,Output identifier (DOI or URL),False,False,False
+C4_TA2-542-1_2,Reuse terms stated,True,False,False
+C4_TA2-542-1_2,RI destination named,True,True,False
+C4_TA2-542-1_2,Repository deposit,False,False,False
+C4_TA2-542-1_2,Units used recorded,True,False,True

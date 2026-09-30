@@ -1,0 +1,87 @@
+WP,Report file,Project ID,Role,ID printed in report,Note
+WP4,C1-TA1-44-1-2_ConvDAS.pdf,C1_TA1-44-1_1,primary,C1_TA1-44-1_2,Report ID differs from ILM Project ID (suffix _2 vs _1); matched on title and acronym.
+WP4,C3-TA1-44-1-4_DASGAS.docx,C3_TA1-44-1_4,primary,C3-TA1-44-1-4,
+WP4,C3-TA1-44-2-2_SeisDAS.pdf,C3_TA1-44-2_2,primary,C3-TA1-44-2-2,
+WP4,C3-TA1-44-5-2_InfraSoilArray.docx,C3_TA1-44-5_2,primary,C3-TA1-44-5-2,
+WP4,C3_TA1-44-1-3_SBEM.pdf,C3_TA1-44-1_3,primary,C3_TA1-44-1-3,
+WP5,C1-TA2-531-1-1_RADIATE.pdf,C1_TA2-531-1_1,primary,C1-TA2-531-1,Report ID lacks the application suffix.
+WP5,C1-TA2-531-2-1_TOPOVOLC.pdf,C1_TA2-531-2_1,primary,C1_TA2-531-2_1,
+WP5,C1-TA2-531-2-2_IMPACT.pdf,C1_TA2-531-2_2,primary,C1_TA2-531-2_2,
+WP5,C1-TA2-531-3-6_IALGTLRCH1960.pdf,C1_TA2-531-3_6,primary,C1-TA2-531-3-6,
+WP5,C1-TA2-531-3-7_FLOODIMG.pdf,C1_TA2-531-3_7,primary,C1-TA2-531-3-7,Longer of two versions.
+WP5,C1-TA2-531-3-7_FLOOD-IMG.pdf,C1_TA2-531-3_7,superseded,C1-TA2-531-3-7,Shorter earlier version.
+WP5,C1-TA2-531-3_BETON.pdf,C3_TA2-531-3_8,primary,C1-TA2-531-3,Report prints a Call 1 ID; visit dates (16-20 Feb 2026) match ILM C3_TA2-531-3_8.
+WP5,C3-TA2-531-3_8_BETON.pdf,C3_TA2-531-3_8,duplicate file,C1-TA2-531-3,Byte-identical copy.
+WP5,C1-TA2-541-1-1_TEPHRANZ.pdf,C1_TA2-541-1_1,primary,C1_TA2-541-1_1,Covers the combined offer TA2-541-1/TA2-541-2.
+WP5,C1-TA2-541-1-2_TEPHRAZOR.pdf,C1_TA2-541-1_2,primary,C1_TA2-541-1_2,Contains the public SDL DOI; covers the combined offer.
+WP5,C1-TA2-541-1-2_TEPHRAZORr.pdf,C1_TA2-541-1_2,superseded,C1_TA2-541-1_2,Earlier version: simulations still running.
+WP5,C1-TA2-541-3-1_PLACS.docx,C1_TA2-541-3_1,primary,C1-TA2-541-3-1,
+WP5,C1-TA2-541-3-3_CBHA.pdf,C1_TA2-541-3_3,primary,C1_TA2-541-3_3,More complete version with SDL DOI.
+WP5,C1-TA2-541-3_3-CBHA.pdf,C1_TA2-541-3_3,superseded,C1_TA2-541-3_3,Earlier narrative.
+WP5,C1-TA2-541-6-1_CHI_PTHA_June_2026.pdf,C1_TA2-541-6_1,primary,C1-TA2-541-6-1,June 2026 update.
+WP5,C1-TA2-541-6-1_ CHIThA.docx,C1_TA2-541-6_1,superseded,C1-TA2-541-6-1,Earlier version.
+WP5,C1-TA2-542-1-1_SEISGEN_UPDATE_JULY26.pdf,C1_TA2-542-1_1,primary,C1-TA2-542-1-1,July 2026 update: second visit 02-06 March 2026.
+WP5,C1-TA2-542-1-1_2026_old_SEISGEN.pdf,C1_TA2-542-1_1,superseded,,Older narrative.
+WP5,C1-TA2-542-1-1_OMG_update.docx,C1_TA2-542-1_2,primary,,Filename carries the SEISGEN code 542-1-1; ILM Project ID for OMG! is C1_TA2-542-1_2.
+WP5,C1-TA2-542-1-1_OMG.pdf,C1_TA2-542-1_2,superseded,C1-TA2-542-1-1,Report ID is the SEISGEN code; content is OMG!.
+WP5,C1-TA2-542-1-3_NonErg VRI-GMM.docx,C1_TA2-542-1_3,primary,C1-2024,
+WP5,C1_TA2-531-3-1_TRUSTIC.pdf,C1_TA2-531-3_1,primary,C1-TA2-531-3-1,
+WP5,C2-TA2-531-1-2_CapCosSC-HPC.pdf,C2_TA2-531-1_2,primary,C2_TA2-531-1-2,Acronym CapCosSC-HPC in report; CapCosC-HPC in ILM.
+WP5,C2-TA2-531-2-2 _ FLOWFOCUS.docx,C2_TA2-531-2_2,primary,C2_TA2-531-2_2,
+WP5,C2-TA2-532-1-1_D_Liu_BingCLAW_Report_December2025.docx,C2_TA2-532-1_1,primary,C2_TA2-532-1_1,
+WP5,C2-TA2-532-1-2_BingClaw.docx,C2_TA2-532-1_2,primary,C2_TA2-532-1_2,ILM Project acronym is empty.
+WP5,C2-TA2-532-1-3_BingCLAW.docx,C2_TA2-532-1_3,primary,C2_TA2-532-1_3,
+WP5,C2-TA2-532-1-5_SLIDER_Report.pdf,C2_TA2-532-1_5,primary,C2_TA2-532-1_5,
+WP5,C2-TA2-532-1-5_SLIDER.pdf,C2_TA2-532-1_5,duplicate file,C2_TA2-532-1_5,Byte-identical copy.
+WP5,C2-TA2-532-1-6-I_BingCLAW_.docx,C2_TA2-532-1_6,primary,C2_TA2-532-1_6,ILM Project acronym is N.A.
+WP5,C2-TA2-541-6-1_PTHA-WESTIND.pdf,C2_TA2-541-6_1,primary,C2_TA2-541-6_1,
+WP5,C2_TA2-541-6-1_PTHA-WESTIND.pdf,C2_TA2-541-6_1,duplicate file,C2_TA2-541-6_1,Identical text.
+WP5,C2-TA2-541-6-2_PTHA-HPC-R-S-C-M.pdf,C2_TA2-541-6_2,primary,TA2-541-6/7/8,Covers both visits and the SDL DOI; acronym PTHA-HPC-R-S-C-M.
+WP5,C2-TA2-541-6-2_PTHA-HPC-AM.docx,C2_TA2-541-6_2,superseded,C2_TA2-541-6_2,Earlier preparation-stage report.
+WP5,C2-TA2-541-9-1_SHARE.pdf,C2_TA2-541-9_1,primary,C2-TA2-541-9-1,
+WP5,C2-TA2-541-9_2_CyberSISZ.pdf,C2_TA2-541-9_2,primary,TA2-541-9,
+WP5,C3-TA2-531-2-1_4D-MOVPOV.pdf,C3_TA2-531-2_1,primary,C3-TA2-531-2-1,
+WP5,C3-TA2-531-3-2_SLAM.pdf,C3_TA2-531-3_3,primary,C3-TA2-531-3_2,Report ID suffix _2 vs ILM _3; matched on title and acronym. Report states no visit (remote access).
+WP5,C3-TA2-531-3_ELITS-SEA,C3_TA2-531-3_6,primary,C3_TA2-531-3-ELITS-SEA,File has no extension (Word document); omitted from the August report analysis.
+WP5,C3-TA2-541-11-2_phyDRMT.docx,C3_TA2-541-11_2,primary,C3-TA2-541-11_2,
+WP5,C3-TA2-541-11-3_FFM-Tohoku.pdf,C3_TA2-541-11_1,primary,C3-TA2-541-11_3,Report ID suffix _3 vs ILM _1; matched on title and acronym.
+WP5,C3-TA2-542-1-2_NSHM-BPG.docx,C3_TA2-542-1_2,primary,TA2-542-1,
+WP5,C3-TA2-542-1-2_NSHM-BGM.docx,C3_TA2-542-1_2,duplicate file,TA2-542-1,Identical text; filename misspells the acronym.
+WP5,C3-TA2-542-1-6_ICEHRM.docx,C3_TA2-542-1_6,primary,C3-TA2-542-1-6,
+WP5,C4-TA-542-1-2_QUAKERISK-EU.docx,C4_TA2-542-1_2,primary,C4-TA-542-1-2,
+WP5,C4-TA2-542-1-3_EMME24-RIRA.pdf,C3_TA2-542-1_4,primary,TA2-542-1,Report title and acronym (EMME24-RIRA) differ from ILM (EMME-GMM) and filename says C4; PI and access dates (23 Feb - 24 Jul 2026) match ILM C3_TA2-542-1_4.
+WP5,C4-TA3-86-1-3_ATLANTIDAS.pdf,C4_TA3-86-3,duplicate file,C4-TA3-86-1-3,Filed under WP5; identical to the WP8 copy.
+WP8,C4_TA3-86-1_3_ATLANTIDAS.pdf,C4_TA3-86-3,primary,C4-TA3-86-1-3,Report ID C4-TA3-86-1-3 vs ILM C4_TA3-86-3.
+WP8,C1-TA3-84-1-1_FAIRWAY_IMR_UPDATE.docx,C1_TA3-84-1_1,primary,C1_TA3-84-1_1,Update with EPOS CREW and Zenodo links.
+WP8,C1-TA3-84-1-1_FAIRWAY-IMR.docx,C1_TA3-84-1_1,superseded,C1_TA3-84-1_1,
+WP8,C1-TA3-84-1-2_AIBAZ_UPDATE.docx,C1_TA3-84-1_2,primary,C1_TA3-84-1_2,Update with Zenodo DOI.
+WP8,C1-TA3-84-1_2_AIBAZ.docx,C1_TA3-84-1_2,superseded,C1_TA3-84-1_2,
+WP8,C1-TA3-84-1_3_OPTIMISED_UPDATE.docx,C1_TA3-84-1_3,primary,C1_TA3-84-1_3,Update corrects the ID; acronym OPTIMISED in report vs OPTMISED in ILM.
+WP8,C1-TA3-84-1_3_OPTIMISED.docx,C1_TA3-84-1_3,superseded,C1_TA3-84-1_4,Earlier version printed C1_TA3-84-1_4.
+WP8,C1_TA3-83-1-1_ETNAGRAV.pdf,C1_TA3-83-1_1,primary,C1_TA3-83-1_1,
+WP8,C1_TA3-83-1-1_ETNAGRAV.docx,C1_TA3-83-1_1,duplicate file,C1_TA3-83-1_1,Word rendition of the same report.
+WP8,Outreach.docx,C1_TA3-83-1_1,supplement,,Dissemination supplement to ETNAGRAV.
+WP8,C2-TA3-84-1_2_SMAD.docx,C2_TA3-84-1_2,primary,C2_TA3-84-1_2,
+WP8,C2-TA3-88-2_1_LC-HERC2.pdf,C2_TA3-88-2_1,primary,C2_TA3-88-2_1,
+WP8,C3-TA3-82-1-4_B-PIP.pdf,C3_TA3-82-1_4,primary,C3_TA3-82-1_4,
+WP8,C3-TA3-82-1-5_Haaf_ESPF.pdf,C3_TA3-82-1_5,primary,C3-TA3-82-1-5,
+WP8,C3-TA3-82-1-5_ESPF.pdf,C3_TA3-82-1_5,duplicate file,C3-TA3-82-1-5,Byte-identical copy.
+WP8,C3-TA3-83-1_Rotational-Night.odt,C3_TA3-83-1_2,primary,C1_TA3-83-1,Report prints a Call 1 ID; ILM holds it as C3_TA3-83-1_2.
+WP8,C3-TA3-83-4-3_DECADE.pdf,C3_TA3-83-4_3,primary,C3_TA3-83-4_3,
+WP8,C3-TA3-83-4_CO2_PARADOX.pdf,C3_TA3-83-4_2,primary,TA3-83-4,
+WP8,C3-TA3-83-5_OMAC.docx,C3_TA3-83-5_2,primary,,Report ID field holds only the call.
+WP8,C3-TA3-83-6-2_DIAPASON.docx,C3_TA3-83-6_2,primary,C3-TA3-83-6-2,
+WP8,C3-TA3-84-1_3_NEWMAR.docx,C3_TA3-84-1_3,primary,C3_TA3-84-1_3,
+WP8,C3-TA3-85-1-2_MAREA.docx,C3_TA3_85_1_2,primary,C3-TA3-85-1-2,
+WP8,C3-TA3-88-1_2_NEREIDS.pdf,C3_TA-88-1_2,primary,C3_TA3-88-1_2,ILM Project ID C3_TA-88-1_2 lacks the digit 3 of TA3.
+WP8,C3_TA3-84-1_2_SGITA.docx,C3_TA3-84-1_2,primary,C3_TA3-84-1_2,
+WP8,C4-TA3-83-4-1_VTAETNA-11-13.pdf,C4_TA3-83-4_1,primary,C4-TA3-83-4-1,
+WP8,C4-TA3-83-5-1_FREDAS_UPDATE.pdf,C4_TA3-83-5_1,primary,C4_TA3-83-5_1,
+WP8,C4_TA3-83-5_1-FREDAS.pdf,C4_TA3-83-5_1,duplicate file,C4_TA3-83-5_1,Identical text.
+WP8,C4-TA3-83-6_USCV-DAS.pdf,C4_TA3-83-6_1,primary,C4-TA3-83-6,
+WP8,C4-TA3-86-1-1_DEEPSENSE.docx,C4_TA3-86-1,primary,101058518,Report ID field holds the grant number.
+WP8,C4-TA3-86-1-2_OASIS.pdf,C4_TA3-86-2,primary,C4-TA3-86-1-2,
+WP8,C4-TA3-88-2-3_UnICorn.docx,C4_TA3-88-2_3,primary,UnICorn,
+WP8,C4-TA3-88-2_2_LEGANT.pdf,C4_TA3-88-2_2,primary,C4_TA3-88-2_2,
+WP8,C4_TA3_82_1_1_FZCOWI.pdf,C4_TA3_82_1_1,primary,C4_TA3_82_1_1,
+WP8,C4-TA3_82_1_1_FZCOWI.pdf,C4_TA3_82_1_1,duplicate file,C4_TA3_82_1_1,Identical text.

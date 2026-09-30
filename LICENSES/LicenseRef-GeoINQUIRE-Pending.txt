@@ -1,0 +1,5 @@
+Copyright (c) 2026 University of Bergen, Department of Earth Science.
+
+All rights reserved pending a licence agreed by the Geo-INQUIRE consortium
+(Horizon Europe grant agreement No. 101058518). Reuse, redistribution or
+modification requires the written approval of the copyright holder.

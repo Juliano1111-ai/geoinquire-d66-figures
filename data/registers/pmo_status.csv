@@ -1,0 +1,8 @@
+Project ID,Project acronym,PMO status,Retained record,Basis
+C3_TA3-82-1_3,B-PICK,Cancelled,,PMO comment 16/09/2026: cancelled; not executed. ILM End of the Visit/Access states the access was cancelled although Project Stage reads Project fully reported.
+C4_TA3_82_1_4,GREASE,Cancelled,,PMO comment 16/09/2026: cancelled; not executed. ILM End of the Visit/Access states the access could not take place although Project Stage reads Project fully reported.
+C2_TA2-532-1_4,DELTA,Cancelled,,PMO comment 16/09/2026: cancelled; not executed. ILM comment: converted to personalised training.
+C2_TA2-541-9_3,COL1917-M7,Cancelled,,PMO comment 16/09/2026: cancelled; not executed. ILM Project Stage: Project dismissed (non-EU project declined).
+C4_TA3-88-2_1,FIBERCREEP,Cancelled,,PMO comment 16/09/2026 (spelled FIBRECREEP): cancelled; not executed. ILM Project Stage is empty.
+C1_TA2-541-2_1,TephraNZ,Duplicate record,C1_TA2-541-1_1,PMO comment 16/09/2026: combined offer of installations TA2-541-1 and TA2-541-2 reported twice. The TA report carries C1_TA2-541-1_1.
+C1_TA2-541-2_2,TEPHRAZOR,Duplicate record,C1_TA2-541-1_2,PMO comment 16/09/2026: combined offer of installations TA2-541-1 and TA2-541-2 reported twice. The TA report carries C1_TA2-541-1_2.
