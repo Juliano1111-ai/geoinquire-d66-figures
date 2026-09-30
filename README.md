@@ -1,4 +1,4 @@
-# Geo-INQUIRE D6.6 — figure code and calculations
+# Geo-INQUIRE D6.6 — Figure source code and calculations
 
 **Supporting material for Geo-INQUIRE Deliverable D6.6, *Mechanisms for integration of TNA
 assets to VA*.** D6.6 belongs to Work Package 6, Task 6.5, and was prepared at the
