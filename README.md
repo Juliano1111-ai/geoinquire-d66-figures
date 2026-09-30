@@ -1,32 +1,40 @@
-# Geo-INQUIRE D6.6 — figure code and inputs
+# Geo-INQUIRE D6.6 — figure code and calculations
 
-This repository holds the code and data behind the data figures of Deliverable D6.6,
-*Mechanisms for integration of TNA assets to VA*. D6.6 is part of Geo-INQUIRE
-(Horizon Europe grant agreement No. 101058518), Work Package 6, Task 6.5, and was
-written at the University of Bergen.
+**Supporting material for Geo-INQUIRE Deliverable D6.6, *Mechanisms for integration of TNA
+assets to VA*.** D6.6 belongs to Work Package 6, Task 6.5, and was prepared at the
+University of Bergen. Geo-INQUIRE is funded under Horizon Europe grant agreement
+No. 101058518.
 
-The deliverable describes how outputs of Trans-National Access (TA) can be
-integrated into existing research-infrastructure (RI) portfolios through Virtual
-Access (VA). It uses four instruments:
+## Context
 
-* **DDSS** — what the asset is: Data, Data product, Software or Service.
-* **Routes** — where the asset is going. Nine detection rules are applied to the
-  Implementation Level Matrix (ILM).
-* **TIL** — how far the asset has progressed along a cumulative ladder:
-  Implementation, Access, Content, Integration.
-* **Mechanism families M1–M5** — the handoff the receiver would have to perform:
-  ingestion, catalogue exposure, software deployment, service federation, or
-  preservation plus separate exposure.
+The Grant Agreement asks D6.6 for *"a description of the mechanisms by which the TNA
+assets will be integrated into the existing RI portfolio of assets"*, structured by the
+Data, Data product, Software and Services (DDSS) framework. D6.5 listed the assets that
+Trans-National Access (TA) produced. D6.6 explains how those assets reach the research
+infrastructures: through which Virtual Access (VA) installation, under what conditions,
+and on what evidence.
 
-Every figure can be regenerated from two raw sources and five registers:
+D6.6 answers from the project's own records rather than from a survey.
 
-* The **Implementation Level Matrix (ILM)**, sheet `TA_Individual_Applications`,
-  version of 29 September 2026. This is the canonical record and is never edited.
-* The **TA reports** written by the hosts (86 files, WP4/WP5/WP8). They are read
-  beside the ILM as a reference and never substituted for it.
+* **Population.** The primary record is the sheet `TA_Individual_Applications` of the
+  Implementation Level Matrix (ILM), version of 29 September 2026. The sheet has 75 rows
+  across Calls 1–4. The Project Office confirmed on 16 September 2026 that five
+  applications were cancelled and two rows duplicate a combined offer. That leaves
+  68 executed applications. These corrections are applied through a register, and the
+  ILM itself is never edited.
+* **Four instruments.** Each of the 68 applications is placed on:
+  * **DDSS**: what the asset is;
+  * **Routes**: which VA installation and RI portfolio it is bound for, and how strongly
+    the record supports that;
+  * **TIL**: how far it has progressed (Implementation, Access, Content, Integration);
+  * **Mechanism families M1–M5**: what the receiving infrastructure would have to do.
+* **TA reports.** The 86 report files written by the TA hosts (WP4, WP5, WP8) are read
+  beside the ILM as a second, independent witness (D6.6 Section 3.4, Figure 6). They
+  confirm or add evidence and never change a TIL position.
 
-Every source file carries a copyright header, a citation line and a comment on
-each line of code.
+The code is published so that the Project Office, the WP6 partners and reviewers can
+regenerate every figure and number in D6.6. This works on the version of the ILM used
+in the deliverable and on any later version.
 
 ## Figures
 
@@ -38,6 +46,59 @@ each line of code.
 | 4 | `src/fig04_til4.py` | 3.3 | The 31 applications at TIL 4: node, portfolio, DDSS, graded mechanism codes, report chip |
 | 5 | `src/fig05_below_til4.py` | 3.3 | The 37 applications below TIL 4, grouped by the control required next |
 | 6 | `src/fig06_two_witnesses.py` | 3.4 | The ILM and the TA reports read together: (a) item by item, (b) the TIL ladder, (c) the 15 applications the reports would move |
+
+## What the code calculates
+
+The rules below are the ones stated in D6.6 (Table 1 for TIL, Table 2 for the routes,
+Table 4 for the mechanism families). ILM attributes are named, never given by column
+letter.
+
+1. **Population** (`ilm.py`, `data/registers/pmo_status.csv`). Rows listed as cancelled or
+   duplicate are removed before anything else is computed, so they cast no vote in the
+   lineage routes.
+2. **TIL gates** (`ilm.py`). TIL is cumulative: an application sits at the level just
+   below its first unmet gate.
+   * Implementation: *Project Stage* has reached "Visit/access exhausted" or beyond.
+   * Access: *Number of units used* > 0; or, where that count is blank, Implementation is
+     met and *End of the Visit/Access* shows the period is over at the snapshot date
+     (`--asof`).
+   * Content: both *Metadata of the outcome* and *Level of access* carry a real
+     statement. "Not yet available" or "to be determined" does not count.
+   * Integration: a destination is declared in *Associated VA*, *Associated RI* or
+     *Expected strategy of integration*.
+3. **Routes R1–R9** (`ilm.py`).
+   * R1–R3 read the three declaring attributes.
+   * R4–R7 read *Actual link to asset produced*, *Metadata of the outcome*,
+     *Delivered assets as outcomes* and *Expected assets as outcomes*.
+   * R8 and R9 infer a destination by leave-one-out co-occurrence within the same TA
+     host and the same work package.
+   * The winning destination is the one with most votes. Ties go first to a declared
+     destination over an inferred one, then alphabetically. Concordance is the number
+     of routes that agree.
+4. **DDSS** (`ilm.py`, `data/registers/ddss_register.csv`).
+   * The primary class comes from lexicon scoring of *Short description of the
+     activity*, *Expected assets as outcomes* and *Delivered assets as outcomes*.
+   * The multi-label package, the VA node and the RI portfolio used for the mechanism
+     families are read from the register of the published figures.
+5. **Mechanism families** (`mechanism.py`).
+   * Data or Data product gives M1, or M2 when there is catalogue evidence. Software
+     gives M3; Service gives M4.
+   * M5 requires a repository leg (Zenodo) **and** a separate exposure leg. A repository
+     leg alone is reported as *Repository-only*, and missing DDSS evidence as *Unknown*.
+   * Every code carries the grade of the route that supports it: declared (R1–R3),
+     direct (R4–R7) or lineage (R8/R9). An M5 whose exposure leg rests on lineage is
+     provisional.
+6. **TA report evidence** (`extract_report_text.py`, `reports.py`,
+   `data/registers/report_map.csv`, `report_deposits.csv`).
+   * Each report is linked to its ILM application by the Project ID it prints.
+   * Six items are read: access documented, access ended, output identifier, reuse
+     terms, destination named, and repository deposit.
+   * A deposit counts only when reading the report confirms it is the project's own.
+   * The *report-supported TIL* is the level an application would reach if the ILM
+     recorded what its report documents. It is shown for transparency and is not
+     canonical.
+7. **Figure inputs** (`build_inputs.py`). All of the above is combined into the tables in
+   `data/derived/`, which the figure scripts read.
 
 ## Layout
 
@@ -104,10 +165,13 @@ inferred, then alphabetically, so the outputs do not depend on `PYTHONHASHSEED`.
 
 ## Data policy
 
-`data/raw/` is not redistributed. The ILM carries personal data (PI gender,
-affiliations, contact e-mails), and the TA reports name individuals. The registers
-and derived tables committed here hold no personal data. They identify each
-application by its Project ID and acronym only.
+`data/raw/` is not redistributed, because the ILM carries personal data (PI gender,
+affiliations, contact e-mails) and the TA reports name individuals.
+
+The registers and derived tables identify each application by its Project ID, acronym,
+TA host institution and report file name. Report file names are kept exactly as the
+hosts submitted them, so that the pipeline can find each file. Two of them contain a
+surname.
 
 ## Known limits
 
